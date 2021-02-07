@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+}
+h3{
+    font-size: 40px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #15b600;
+}
+h6{
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+p{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    font-size: 18px;
+}
+.container{
+    padding: 0 8%;
+}
+.content{
+    padding: 20px 0;
+}
+.image{
+    background-size: cover;
+    width: 100%;
+    height: 561px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+.button {
+    padding: 7px 15px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #15b600;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.button:hover{
+    background-color: #0e7900;
+}
+
+
+
+/* Training system */
+.image-training{
+    background-image: url('../../assets/img/works/trainingsystem.jpg');
+}
+
+
+/* Lamlam */
+.image-lamlam{
+    background-image: url('../../assets/img/works/lamlam.jpg');
+}
+
+
+/* Muse */
+.image-muse{
+    background-image: url('../../assets/img/works/muse.jpg');
+}
