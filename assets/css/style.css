@@ -181,7 +181,7 @@ header ul li a.active{
     display: flex;
 }
 .show{
-    height: 78%;
+    height: 75%;
     width: 100%;
     position: relative;
 }
