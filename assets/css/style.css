@@ -53,6 +53,9 @@ p{
 .button:hover{
     background-color: #a40200;
 }
+hr{
+    margin-top: 100px;
+}
 
 
 
@@ -365,12 +368,52 @@ footer span, .copy-right{
     .about .contents img{
         display: none;
     }
+}
 
 
 
+@media (max-width: 759px){
     /* Contact */
-    .contacts{
+    .contact{
+        flex-direction: column;
+    }
+    .address, .form{
+        height: 50vh;
+    }
+    
+    
+    
+    
+    /* Foot */
+    .foot{
+        flex-direction: column;
+        height: 100%;
         padding-bottom: 100px;
+    }
+    .foot img{
+        margin-top: 50px;
+    }
+    .foo {
+        margin-top: 50px;
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 531px){
+    /* Tools */
+    .tools{
+        flex-wrap: wrap;
+    }
+
+
+    
+    /* Foot */
+    .foo{
+        flex-direction: column;
+    }
+    .foo p{
+        margin-top: 30px;
     }
 }
 
@@ -412,22 +455,13 @@ footer span, .copy-right{
     }
 
 
-    /* Tools */
-    .tools{
-        flex-wrap: wrap;
-    }
 
 
-
-    /* Contact */
-    .contacts{
-        padding-bottom: 250px;
-    }
-    .contact{
-        flex-direction: column;
-    }
-    .address, .form{
-        height: 50vh;
+    /* Foot */
+    .foot img{
+        margin-top: 50px;
+        width: 100px;
+        height: 100px;
     }
 
 
@@ -437,9 +471,7 @@ footer span, .copy-right{
         position: absolute;
         bottom: 0;
         flex-direction: column;
-        justify-content: space-evenly;
-        align-items: start;
-        height: 160px;
+        justify-content: center;
     }
     .social-media {
         margin-left: 0;
