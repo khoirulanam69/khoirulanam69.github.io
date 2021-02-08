@@ -387,9 +387,6 @@ footer span, .copy-right{
     .contact{
         flex-direction: column;
     }
-    .address, .form{
-        height: 50vh;
-    }
     
     
     
