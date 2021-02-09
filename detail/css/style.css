@@ -62,16 +62,56 @@ li{
 /* Training system */
 .image-training{
     background-image: url('../../assets/img/works/trainingsystem.jpg');
+    background-position: center;
 }
 
 
 /* Lamlam */
 .image-lamlam{
     background-image: url('../../assets/img/works/lamlam.jpg');
+    background-position: center;
 }
 
 
 /* Muse */
 .image-muse{
     background-image: url('../../assets/img/works/muse.jpg');
+    background-position: center;
+}
+
+
+
+@media (max-width: 768px){
+    .image-training{
+        background-image: url('../../assets/img/works/trainingsystem-tablet.jpg');
+        background-position: center;
+    }
+    .image-lamlam{
+        background-image: url('../../assets/img/works/lamlam-tablet.jpg');
+        background-position: center;
+    }
+}
+
+
+
+@media (max-width: 531px){
+    .container{
+        padding: 0;
+    }
+    .image{
+        box-shadow: none;
+        border-radius: 0;
+    }
+    .image-training{
+        background-image: url('../../assets/img/works/trainingsystem-hp.jpg');
+        background-position: center;
+    }
+    .image-lamlam{
+        background-image: url('../../assets/img/works/lamlam-hp.jpg');
+        background-position: center;
+    }
+    .image-muse{
+        background-image: url('../../assets/img/works/muse-hp.jpg');
+        background-position: center;
+    }
 }
