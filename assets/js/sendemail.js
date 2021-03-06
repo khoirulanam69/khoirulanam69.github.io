@@ -1,17 +1,25 @@
-// using javascript
 function sendEmail(params) {
-    var tempParams = {
-        name: document.querySelector('#name').value,
-        email: document.querySelector('#email').value,
-        subject: document.querySelector('#subject').value,
-        message: document.querySelector('#body').value,
-    };
+    const nama = document.querySelector('#name').value;
+    const email = document.querySelector('#email').value;
+    const subject = document.querySelector('#subject').value;
+    const message = document.querySelector('#body').value;
+    if (nama=="" || email=="" || subject=="" || message=="") {
+        alert("All field is required");
+    } else {
+        // using javascript
+        var tempParams = {
+            name: nama,
+            email: email,
+            subject: subject,
+            message: message
+        };
 
-    emailjs.send('service_dq9xnz3', 'template_zsbuaor', tempParams)
-    .then(
-        alert("Mail sent successfully"),
-        document.querySelector('#sendmail').reset()
-    );
+        emailjs.send('service_dq9xnz3', 'template_zsbuaor', tempParams)
+        .then(
+            alert("Mail sent successfully"),
+            document.querySelector('#sendmail').reset()
+        );
+    }
 }
 
 // using php mailer
