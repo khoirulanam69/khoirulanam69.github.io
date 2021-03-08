@@ -9,7 +9,7 @@ h3{
     font-size: 40px;
     line-height: 30px;
     font-weight: 600;
-    color: #15b600;
+    color: #cd0300;
 }
 h6{
     font-size: 20px;
@@ -46,7 +46,7 @@ li{
     padding: 7px 15px;
     border-radius: 10px;
     color: #fff;
-    background-color: #15b600;
+    background-color: #cd0300;
     font-size: 16px;
     font-weight: 600;
     display: inline-block;
@@ -54,7 +54,7 @@ li{
     margin-right: 10px;
 }
 .button:hover{
-    background-color: #0e7900;
+    background-color: #8d0000;
 }
 
 
@@ -80,6 +80,26 @@ li{
 }
 
 
+/* Islamic Center */
+.image-islamiccenter{
+    background-image: url('../../assets/img/works/islamiccenter.png');
+    background-position: center;
+}
+
+
+/* Face Mask */
+.image-facemask{
+    background-image: url('../../assets/img/works/facemask.png');
+    background-position: center;
+}
+
+
+/* E Arsip */
+.image-earsip{
+    background-image: url('../../assets/img/works/earsip.png');
+    background-position: center;
+}
+
 
 @media (max-width: 768px){
     .image-training{
@@ -88,6 +108,10 @@ li{
     }
     .image-lamlam{
         background-image: url('../../assets/img/works/lamlam-tablet.jpg');
+        background-position: center;
+    }
+    .image-islamiccenter{
+        background-image: url('../../assets/img/works/islamiccenter-tablet.png');
         background-position: center;
     }
 }
