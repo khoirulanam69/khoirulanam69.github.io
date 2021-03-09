@@ -112,6 +112,12 @@ footer span, .copy-right{
 }
 
 
+/* Portfolio */
+.image-portfolio{
+    background-image: url('../../assets/img/works/portfolio.png');
+    background-position: center;
+}
+
 
 /* Training system */
 .image-training{
@@ -156,6 +162,10 @@ footer span, .copy-right{
 
 
 @media (max-width: 768px){
+    .image-portfolio{
+        background-image: url('../../assets/img/works/portfolio-tablet.png');
+        background-position: center;
+    }
     .image-training{
         background-image: url('../../assets/img/works/trainingsystem-tablet.jpg');
         background-position: center;
@@ -194,6 +204,10 @@ footer span, .copy-right{
     .image{
         box-shadow: none;
         border-radius: 0;
+    }
+    .image-portfolio{
+        background-image: url('../../assets/img/works/portfolio-hp.png');
+        background-position: center;
     }
     .image-training{
         background-image: url('../../assets/img/works/trainingsystem-hp.jpg');
