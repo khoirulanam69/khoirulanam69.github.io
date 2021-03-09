@@ -119,6 +119,19 @@ footer span, .copy-right{
 }
 
 
+
+
+/* Tablet */
+@media (max-width: 991px){
+    /* Work */
+    .show-detail{
+        border-radius: 0;
+        height: 40px;
+        display: flex;
+    }
+}
+
+
 @media (max-width: 759px){
     /* Foot */
     .foot{
