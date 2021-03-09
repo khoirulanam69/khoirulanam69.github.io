@@ -71,6 +71,11 @@ h1{
     margin-right: 10px;
 }
 
+hr{
+    margin-top: 100px
+}
+
+
 /* Foot */
 .foot{
     display: flex;
@@ -80,7 +85,7 @@ h1{
 }
 .foo{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 70%;
 }
 .foot li{
@@ -111,4 +116,76 @@ footer{
 }
 footer span, .copy-right{
     font-size: 12px;
+}
+
+
+@media (max-width: 759px){
+    /* Foot */
+    .foot{
+        flex-direction: column;
+        height: 100%;
+        padding-bottom: 100px;
+    }
+    .foo {
+        margin-top: 50px;
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 531px){
+    .container{
+        padding: 0 8%;
+        padding-bottom: 100px;
+    }
+
+
+    /* Foot */
+    .foo{
+        flex-direction: column;
+    }
+    .foo p{
+        margin-top: 30px;
+    }
+}
+
+
+
+
+/* Phone */
+@media (max-width: 425px){
+    body {
+        position: relative;
+    }
+
+    /* Foot */
+    .foot img{
+        width: 100px;
+        height: 100px;
+    }
+    .foo{
+        margin-top: 0;
+    }
+
+
+
+    /* Footer */
+    footer{
+        position: absolute;
+        bottom: 0;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .social-media {
+        margin-left: 0;
+    }
+    .copy-right, .social-media, .product{
+        flex-grow: 0;
+    }
+    .fa-facebook, .fa-whatsapp, .fa-instagram {
+        margin-left: 0;
+    }
+    textarea {
+        height: 100px;
+    }
 }
