@@ -110,12 +110,18 @@ header ul li a.active{
 /* Section */
 /* Header */
 .head{
-    background: linear-gradient(to right, #000 30%, #959595);
+    background: #000;
 }
 .banner{
     display: flex;
     align-items: center;
     height: 100vh;
+}
+.banner img{
+    position: absolute;
+    right: 8%;
+    height: 100%;
+    width: 700px;
 }
 .content h1,
 .content h3,
@@ -137,7 +143,7 @@ header ul li a.active{
 }
 .about .contents img{
     width: 450px;
-    height: 450px;
+    height: 400px;
 }
 .about .information {
     width: 50%;
