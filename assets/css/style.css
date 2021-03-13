@@ -115,7 +115,7 @@ header ul li a.active{
 .banner{
     display: flex;
     align-items: center;
-    height: 100vh;
+    height: 90vh;
 }
 .banner .content{
     position: absolute;
@@ -124,6 +124,7 @@ header ul li a.active{
 .banner img{
     position: absolute;
     right: 8%;
+    top: -15%;
     height: 100%;
     width: 700px;
     opacity: 50%;
@@ -132,6 +133,7 @@ header ul li a.active{
 .content h3,
 .content p{
     color: #fff;
+
 }
 .content h3{
     letter-spacing: -2px;
