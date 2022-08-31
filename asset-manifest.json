@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.077f16ba.chunk.css",
-    "main.js": "/static/js/main.006cf8bd.chunk.js",
-    "main.js.map": "/static/js/main.006cf8bd.chunk.js.map",
+    "main.css": "/static/css/main.ac70c3a9.chunk.css",
+    "main.js": "/static/js/main.b4cec593.chunk.js",
+    "main.js.map": "/static/js/main.b4cec593.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d802134b.js",
     "runtime-main.js.map": "/static/js/runtime-main.d802134b.js.map",
     "static/css/2.ab18fb39.chunk.css": "/static/css/2.ab18fb39.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.177b9e66.chunk.js.map": "/static/js/3.177b9e66.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ab18fb39.chunk.css.map": "/static/css/2.ab18fb39.chunk.css.map",
-    "static/css/main.077f16ba.chunk.css.map": "/static/css/main.077f16ba.chunk.css.map",
+    "static/css/main.ac70c3a9.chunk.css.map": "/static/css/main.ac70c3a9.chunk.css.map",
     "static/js/2.4178164a.chunk.js.LICENSE.txt": "/static/js/2.4178164a.chunk.js.LICENSE.txt",
     "static/media/Earsip.e79aeaa2.png": "/static/media/Earsip.e79aeaa2.png",
     "static/media/skill.scss": "/static/media/Vector1.1c9b439e.svg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.d802134b.js",
     "static/css/2.ab18fb39.chunk.css",
     "static/js/2.4178164a.chunk.js",
-    "static/css/main.077f16ba.chunk.css",
-    "static/js/main.006cf8bd.chunk.js"
+    "static/css/main.ac70c3a9.chunk.css",
+    "static/js/main.b4cec593.chunk.js"
   ]
 }
