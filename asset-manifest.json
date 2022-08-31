@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac70c3a9.chunk.css",
-    "main.js": "/static/js/main.b4cec593.chunk.js",
-    "main.js.map": "/static/js/main.b4cec593.chunk.js.map",
+    "main.css": "/static/css/main.d6076e46.chunk.css",
+    "main.js": "/static/js/main.b7318244.chunk.js",
+    "main.js.map": "/static/js/main.b7318244.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d802134b.js",
     "runtime-main.js.map": "/static/js/runtime-main.d802134b.js.map",
     "static/css/2.ab18fb39.chunk.css": "/static/css/2.ab18fb39.chunk.css",
@@ -12,12 +12,13 @@
     "static/js/3.177b9e66.chunk.js.map": "/static/js/3.177b9e66.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ab18fb39.chunk.css.map": "/static/css/2.ab18fb39.chunk.css.map",
-    "static/css/main.ac70c3a9.chunk.css.map": "/static/css/main.ac70c3a9.chunk.css.map",
+    "static/css/main.d6076e46.chunk.css.map": "/static/css/main.d6076e46.chunk.css.map",
     "static/js/2.4178164a.chunk.js.LICENSE.txt": "/static/js/2.4178164a.chunk.js.LICENSE.txt",
     "static/media/Earsip.e79aeaa2.png": "/static/media/Earsip.e79aeaa2.png",
     "static/media/skill.scss": "/static/media/Vector1.1c9b439e.svg",
     "static/media/android.cc455f18.svg": "/static/media/android.cc455f18.svg",
     "static/media/calculator.66c0f9d3.png": "/static/media/calculator.66c0f9d3.png",
+    "static/media/dasarfrontendweb.28a6fabb.jpg": "/static/media/dasarfrontendweb.28a6fabb.jpg",
     "static/media/hero.c67caa06.png": "/static/media/hero.c67caa06.png",
     "static/media/illiyin.9bc4cb4f.jpg": "/static/media/illiyin.9bc4cb4f.jpg",
     "static/media/illiyinback.94fbb69b.jpg": "/static/media/illiyinback.94fbb69b.jpg",
@@ -32,7 +33,7 @@
     "static/js/runtime-main.d802134b.js",
     "static/css/2.ab18fb39.chunk.css",
     "static/js/2.4178164a.chunk.js",
-    "static/css/main.ac70c3a9.chunk.css",
-    "static/js/main.b4cec593.chunk.js"
+    "static/css/main.d6076e46.chunk.css",
+    "static/js/main.b7318244.chunk.js"
   ]
 }
