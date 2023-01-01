@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1f67ad35.css",
-    "main.js": "/static/js/main.b86dd771.js",
+    "main.js": "/static/js/main.31214a65.js",
     "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
     "static/media/anime.png": "/static/media/anime.6b01ffa0c4e77e5fb7c8.png",
     "static/media/Earsip.png": "/static/media/Earsip.e79aeaa229c37f3544ed.png",
     "static/media/illiyin.jpg": "/static/media/illiyin.9bc4cb4fc579ab559714.jpg",
+    "static/media/epasien.png": "/static/media/epasien.24fa14181b6f9c7ed6dc.png",
+    "static/media/qodirkunci.png": "/static/media/qodirkunci.8f6d44770f9909ab6b9c.png",
     "static/media/dasarfrontendweb.jpg": "/static/media/dasarfrontendweb.28a6fabb1d4bf3f74dc1.jpg",
     "static/media/muse.png": "/static/media/muse.48d38c973ab45acec386.png",
     "static/media/lamlam.png": "/static/media/lamlam.adb63f047771412e07b5.png",
@@ -21,11 +23,11 @@
     "static/media/Vector1.svg": "/static/media/Vector1.1c9b439e631cb9f4be6a.svg",
     "index.html": "/index.html",
     "main.1f67ad35.css.map": "/static/css/main.1f67ad35.css.map",
-    "main.b86dd771.js.map": "/static/js/main.b86dd771.js.map",
+    "main.31214a65.js.map": "/static/js/main.31214a65.js.map",
     "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f67ad35.css",
-    "static/js/main.b86dd771.js"
+    "static/js/main.31214a65.js"
   ]
 }
