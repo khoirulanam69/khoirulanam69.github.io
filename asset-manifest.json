@@ -1,20 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.05ecae02.css",
-    "main.js": "/static/js/main.76093f96.js",
+    "main.js": "/static/js/main.32b58713.js",
     "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
-    "static/media/anime.png": "/static/media/anime.6b01ffa0c4e77e5fb7c8.png",
-    "static/media/Earsip.png": "/static/media/Earsip.e79aeaa229c37f3544ed.png",
     "static/media/illiyin.jpg": "/static/media/illiyin.9bc4cb4fc579ab559714.jpg",
-    "static/media/epasien.png": "/static/media/epasien.24fa14181b6f9c7ed6dc.png",
-    "static/media/qodirkunci.png": "/static/media/qodirkunci.8f6d44770f9909ab6b9c.png",
     "static/media/dasarfrontendweb.jpg": "/static/media/dasarfrontendweb.28a6fabb1d4bf3f74dc1.jpg",
-    "static/media/muse.png": "/static/media/muse.48d38c973ab45acec386.png",
-    "static/media/lamlam.png": "/static/media/lamlam.adb63f047771412e07b5.png",
     "static/media/illiyinback.jpg": "/static/media/illiyinback.94fbb69bb68ea337b7be.jpg",
-    "static/media/portfolio.png": "/static/media/portfolio.cfcb82b28f1cf986eed5.png",
-    "static/media/training.png": "/static/media/training.e9a91021047e8b79b454.png",
-    "static/media/calculator.png": "/static/media/calculator.66c0f9d365034677b5aa.png",
     "static/media/hero.png": "/static/media/hero.c67caa06d7b50b296b1b.png",
     "static/media/logo.png": "/static/media/logo.700e774a4cdf5c15a1b6.png",
     "static/media/android.svg": "/static/media/android.cc455f182ed80dac18a9a217733109a2.svg",
@@ -23,11 +14,11 @@
     "static/media/Vector1.svg": "/static/media/Vector1.1c9b439e631cb9f4be6a.svg",
     "index.html": "/index.html",
     "main.05ecae02.css.map": "/static/css/main.05ecae02.css.map",
-    "main.76093f96.js.map": "/static/js/main.76093f96.js.map",
+    "main.32b58713.js.map": "/static/js/main.32b58713.js.map",
     "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05ecae02.css",
-    "static/js/main.76093f96.js"
+    "static/js/main.32b58713.js"
   ]
 }
